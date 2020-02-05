@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<parameters>
+<parameter name="desc">NIST 1950SRM dilution QExactive New parameters Merge QT OK 100 sec w name</parameter>
+<parameter name="email">lnothiasscaglia@ucsd.edu</parameter>
+<parameter name="featurefindermetabo.ini">f.lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/1-featurefindermetabo_qexactive_v9_epd_false.ini;</parameter>
+<parameter name="featurelinkerunlabeled.ini">f.lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/3-FeatureLinkerUnlabeledQT_QE_100sec.ini;</parameter>
+<parameter name="featurelinkerunlabeled.tool_type">Feature Linker Unlabeled QT</parameter>
+<parameter name="gnpsexport.ini">f.lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/5-gnpsexport_v3_cos0_9_0_01Da_merged_spectra.ini;</parameter>
+<parameter name="idmapper.ini">f.lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/1b-idmapper_10ppm_20sec_DEBUG.ini;</parameter>
+<parameter name="mapalignerposeclustering.ini">f.lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/2-mapalignerposeclustering_v2_fast_QE.ini;</parameter>
+<parameter name="metaboliteadductdecharger.ini">f.lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/4-metaboliteadductdecharger_V2.ini;</parameter>
+<parameter name="spec_on_server">f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_1_01.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_1_02.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_1_03.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_25_02.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_25_01.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_25_03.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_5_01.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_5_02.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_5_03.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_Blk_no_inj_02.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_Blk_no_inj_04.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_Blk_no_inj_06.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_Blk_no_inj_08.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_625_01.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_625_02.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_625_03.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_125_03.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_125_02.mzML;f.lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_125_01.mzML;</parameter>
+<parameter name="task">aae71e9b72cf431d9b2606170c3f7a7d</parameter>
+<parameter name="textexporter.ini">f.lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/6-TextExporter_v4.ini;</parameter>
+<parameter name="upload_file_mapping">inputFiles-00000.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_1_01.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00001.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_1_02.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00002.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_1_03.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00003.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_25_02.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00004.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_25_01.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00005.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_25_03.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00006.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_5_01.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00007.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_5_02.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00008.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_5_03.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00009.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_Blk_no_inj_02.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00010.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_Blk_no_inj_04.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00011.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_Blk_no_inj_06.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00012.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_Blk_no_inj_08.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00013.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_625_01.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00014.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_625_02.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00015.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_625_03.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00016.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_125_03.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00017.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_125_02.mzML</parameter>
+<parameter name="upload_file_mapping">inputFiles-00018.mzML|lfnothias/1812_NIST_mix/L_C18_Polar_16_MS2_DF_125_01.mzML</parameter>
+<parameter name="upload_file_mapping">iniFiles-featurefinder-00000.ini|lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/1-featurefindermetabo_qexactive_v9_epd_false.ini</parameter>
+<parameter name="upload_file_mapping">iniFiles-idmapper-00000.ini|lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/1b-idmapper_10ppm_20sec_DEBUG.ini</parameter>
+<parameter name="upload_file_mapping">iniFiles-mapaligner-00000.ini|lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/2-mapalignerposeclustering_v2_fast_QE.ini</parameter>
+<parameter name="upload_file_mapping">iniFiles-featurelinker-00000.ini|lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/3-FeatureLinkerUnlabeledQT_QE_100sec.ini</parameter>
+<parameter name="upload_file_mapping">iniFiles-adductdecharger-00000.ini|lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/4-metaboliteadductdecharger_V2.ini</parameter>
+<parameter name="upload_file_mapping">iniFiles-gnpsexport-00000.ini|lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/5-gnpsexport_v3_cos0_9_0_01Da_merged_spectra.ini</parameter>
+<parameter name="upload_file_mapping">iniFiles-textexporter-00000.ini|lfnothias/INI_FILES/1811_QExactive_NIST_1950SRM/6-TextExporter_v4.ini</parameter>
+<parameter name="user">lfnothias</parameter>
+<parameter name="uuid">1E0344E5-8A5E-0001-4DD1-DE4063D01A1E</parameter>
+<parameter name="workflow">OPENMS</parameter>
+<parameter name="workflow_version">1.1.0</parameter>
+</parameters>

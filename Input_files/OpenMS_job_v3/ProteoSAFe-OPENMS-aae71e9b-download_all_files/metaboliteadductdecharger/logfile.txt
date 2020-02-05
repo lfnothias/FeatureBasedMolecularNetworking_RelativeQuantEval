@@ -1,0 +1,589 @@
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+491 of 5451 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 5041 to 13731
+Found 13731 putative edges (of 678745) and avg hit-size of 0.402884
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 7 times
+ Branch and cut took 10.0861 seconds,  with objective value: 0.005.
+<Optimal solution found!> occurred 7 times
+ILP score is: 0.005
+Agreeing charges: 322/1980
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+MetaboliteAdductDecharger took 12.27 s (wall), 12.19 s (CPU), 0.21 s (system), 11.98 s (user).
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 974 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (52 of 363)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+547 of 7018 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 6562 to 19302
+Found 19302 putative edges (of 1126304) and avg hit-size of 0.368304
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 6 times
+ Branch and cut took 23.0658 seconds,  with objective value: 0.069375.
+<Optimal solution found!> occurred 6 times
+ILP score is: 0.069375
+Agreeing charges: 358/2422
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+MetaboliteAdductDecharger took 26.11 s (wall), 26.03 s (CPU), 0.37 s (system), 25.66 s (user).
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 1202 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (67 of 448)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+670 of 8320 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 7771 to 22430
+Found 22430 putative edges (of 1693711) and avg hit-size of 0.376326
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 6 times
+ Branch and cut took 140.993 seconds,  with objective value: 0.163125.
+<Optimal solution found!> occurred 6 times
+ILP score is: 0.163125
+Agreeing charges: 401/3030
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+MetaboliteAdductDecharger took 02:24 m (wall), 02:24 m (CPU), 0.58 s (system), 02:24 m (user).
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 1592 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (70 of 566)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+151 of 2143 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 2037 to 5686
+Found 5686 putative edges (of 209177) and avg hit-size of 0.384805
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 7.12151 seconds,  with objective value: 0.111375.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.111375
+Agreeing charges: 60/790
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+MetaboliteAdductDecharger took 7.84 s (wall), 7.82 s (CPU), 0.13 s (system), 7.69 s (user).
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 328 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (25 of 132)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+154 of 2377 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 2265 to 6701
+Found 6701 putative edges (of 171499) and avg hit-size of 0.360991
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 5.82958 seconds,  with objective value: 0.012.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.012
+Agreeing charges: 53/818
+MetaboliteAdductDecharger took 6.51 s (wall), 6.48 s (CPU), 0.11 s (system), 6.37 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 313 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (21 of 128)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+188 of 2289 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 2141 to 5932
+Found 5932 putative edges (of 190277) and avg hit-size of 0.392616
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 5.62766 seconds,  with objective value: 0.0099.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.0099
+Agreeing charges: 46/780
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+MetaboliteAdductDecharger took 6.34 s (wall), 6.32 s (CPU), 0.11 s (system), 6.21 s (user).
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 365 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (24 of 148)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+263 of 3005 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 2798 to 7906
+Found 7906 putative edges (of 346915) and avg hit-size of 0.387174
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 5.30641 seconds,  with objective value: 0.045625.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.045625
+Agreeing charges: 97/1060
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+MetaboliteAdductDecharger took 6.38 s (wall), 6.36 s (CPU), 0.12 s (system), 6.24 s (user).
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 486 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (27 of 193)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+384 of 4742 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 4435 to 13559
+Found 13559 putative edges (of 804286) and avg hit-size of 0.35541
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 6 times
+ Branch and cut took 19.4397 seconds,  with objective value: 0.04.
+<Optimal solution found!> occurred 6 times
+ILP score is: 0.04
+Agreeing charges: 148/1436
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+MetaboliteAdductDecharger took 21.38 s (wall), 21.35 s (CPU), 0.26 s (system), 21.09 s (user).
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 568 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (38 of 239)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+345 of 4345 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 4062 to 11869
+Found 11869 putative edges (of 641441) and avg hit-size of 0.371303
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 6 times
+ Branch and cut took 25.6832 seconds,  with objective value: 0.030125.
+<Optimal solution found!> occurred 6 times
+ILP score is: 0.030125
+Agreeing charges: 134/1386
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+MetaboliteAdductDecharger took 27.41 s (wall), 27.34 s (CPU), 0.28 s (system), 27.06 s (user).
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 658 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (32 of 255)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+101 of 1247 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 1173 to 3111
+Found 3111 putative edges (of 91977) and avg hit-size of 0.409515
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 3 times
+ Branch and cut took 1.73961 seconds,  with objective value: 0.00625.
+<Optimal solution found!> occurred 3 times
+ILP score is: 0.00625
+Agreeing charges: 118/480
+MetaboliteAdductDecharger took 2.16 s (wall), 2.14 s (CPU), 0.06 s (system), 2.08 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 197 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (10 of 71)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+129 of 1406 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 1312 to 3334
+Found 3334 putative edges (of 102079) and avg hit-size of 0.432214
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 1.31312 seconds,  with objective value: 0.01125.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.01125
+Agreeing charges: 115/546
+MetaboliteAdductDecharger took 1.78 s (wall), 1.76 s (CPU), 0.04 s (system), 1.72 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 212 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (20 of 101)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+34 of 486 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 455 to 949
+Found 949 putative edges (of 22221) and avg hit-size of 0.515279
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 0.26715 seconds,  with objective value: 0.1.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.1
+Agreeing charges: 31/248
+MetaboliteAdductDecharger took 0.48 s (wall), 0.47 s (CPU), 0.02 s (system), 0.45 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 155 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (11 of 56)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+53 of 701 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 655 to 1598
+Found 1598 putative edges (of 38337) and avg hit-size of 0.443054
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 0.506155 seconds,  with objective value: 0.0625.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.0625
+Agreeing charges: 42/296
+MetaboliteAdductDecharger took 0.78 s (wall), 0.75 s (CPU), 0.02 s (system), 0.73 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 200 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (13 of 61)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+114 of 1509 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 1429 to 4116
+Found 4116 putative edges (of 75436) and avg hit-size of 0.374879
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 1.93606 seconds,  with objective value: 0.355.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.355
+Agreeing charges: 23/496
+MetaboliteAdductDecharger took 2.34 s (wall), 2.32 s (CPU), 0.06 s (system), 2.26 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 219 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (10 of 83)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+63 of 788 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 735 to 1622
+Found 1622 putative edges (of 46461) and avg hit-size of 0.491985
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 0.474926 seconds,  with objective value: 0.0155.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.0155
+Agreeing charges: 26/352
+MetaboliteAdductDecharger took 0.78 s (wall), 0.77 s (CPU), 0.02 s (system), 0.75 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 220 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (12 of 72)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+115 of 1552 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 1460 to 4485
+Found 4485 putative edges (of 89533) and avg hit-size of 0.351171
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 3.42603 seconds,  with objective value: 0.008625.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.008625
+Agreeing charges: 39/510
+MetaboliteAdductDecharger took 3.89 s (wall), 3.85 s (CPU), 0.06 s (system), 3.79 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 250 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (15 of 96)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+136 of 1954 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 1865 to 5505
+Found 5505 putative edges (of 142118) and avg hit-size of 0.363488
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 5 times
+ Branch and cut took 4.5317 seconds,  with objective value: 0.010625.
+<Optimal solution found!> occurred 5 times
+ILP score is: 0.010625
+Agreeing charges: 30/662
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+MetaboliteAdductDecharger took 5.16 s (wall), 5.11 s (CPU), 0.08 s (system), 5.03 s (user).
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 332 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (21 of 112)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+100 of 1523 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 1458 to 3988
+Found 3988 putative edges (of 103974) and avg hit-size of 0.390672
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 4 times
+ Branch and cut took 2.24823 seconds,  with objective value: 0.013125.
+<Optimal solution found!> occurred 4 times
+ILP score is: 0.013125
+Agreeing charges: 24/540
+MetaboliteAdductDecharger took 2.82 s (wall), 2.70 s (CPU), 0.05 s (system), 2.65 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 270 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (14 of 95)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Parameters 'retention_max_diff' and 'retention_max_diff_local' are unequal, but no RT shift of adducts has been defined. Setting parameters to minimum of the two.
+Adding neutral: ---------- Adduct -----------------
+Charge: 0
+Amount: 1
+MassSingle: -18.0106
+Formula: H-2O-1
+log P: -2.99573
+
+MassExplainer table size: 260
+Generating Masses with threshold: -4.82831 ...
+done
+146 of 2174 valid net charge compomer results did not pass the feature charge constraints
+Inferring edges raised edge count from 2093 to 6418
+Found 6418 putative edges (of 124220) and avg hit-size of 0.348863
+Using solver 'coinor' ...
+Optimal solution found!
+<Using solver 'coinor' ...> occurred 3 times
+ Branch and cut took 4.80443 seconds,  with objective value: 1.65625.
+<Optimal solution found!> occurred 3 times
+ILP score is: 1.65625
+Agreeing charges: 35/708
+MetaboliteAdductDecharger took 5.37 s (wall), 5.35 s (CPU), 0.09 s (system), 5.26 s (user).
+ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!
+.
+<ConsensusFeature::computeDechargeConsensus() WARNING: Feature's charge is 0! This will lead to M=0!> occurred 283 times
+..
+Warning: a significant portion of your decharged molecules have gapped, even-numbered charge ladders (16 of 101)This might indicate a too low charge interval being tested.
+.
+<..> occurred 2 times

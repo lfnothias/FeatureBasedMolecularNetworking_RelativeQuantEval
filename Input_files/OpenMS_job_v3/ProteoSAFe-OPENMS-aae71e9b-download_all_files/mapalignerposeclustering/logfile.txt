@@ -1,0 +1,6 @@
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Picking a reference (by size) ... done
+Progress of 'Aligning input maps':
+                              5.26 %                                         31.58 %                                   42.11 %                               47.37 %                             68.42 %                       78.95 %                 94.74 %               -- done [took 9.50 s (CPU), 9.51 s (Wall)] -- 
+MapAlignerPoseClustering took 10.09 s (wall), 10.07 s (CPU), 0.14 s (system), 9.93 s (user).

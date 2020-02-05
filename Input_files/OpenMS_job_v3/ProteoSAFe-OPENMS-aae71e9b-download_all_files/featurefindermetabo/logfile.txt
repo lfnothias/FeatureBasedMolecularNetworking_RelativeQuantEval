@@ -1,0 +1,285 @@
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  29.32 %                 91.25 %               -- done [took 1.60 s (CPU), 1.69 s (Wall)] -- 
+Progress of 'mass trace detection':
+  4.55 %                 5.96 %                 6.88 %                 8.83 %                 9.55 %                 10.40 %                 11.04 %                 12.34 %                 13.75 %                 14.78 %                 15.66 %                 16.52 %                 17.54 %                 19.18 %                 20.31 %                 21.49 %                 23.04 %                 24.54 %               -- done [took 18.43 s (CPU), 18.45 s (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.02 s (CPU), 0.01 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    2531
+Output features: 2081 (total trace count: 2531)
+Progress of 'Storing featureXML file':
+  31.43 %               -- done [took 0.11 s (CPU), 0.10 s (Wall)] -- 
+FeatureFinderMetabo took 20.83 s (wall), 20.69 s (CPU), 0.06 s (system), 20.63 s (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  43.43 %               -- done [took 1.57 s (CPU), 1.59 s (Wall)] -- 
+Progress of 'mass trace detection':
+  5.04 %                 7.45 %                 9.29 %                 10.42 %                 11.31 %                 12.95 %                 14.75 %                 16.29 %                 17.28 %                 18.41 %                 20.24 %                 22.19 %                 24.06 %                 26.06 %               -- done [took 14.49 s (CPU), 14.50 s (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    3081
+Output features: 2562 (total trace count: 3081)
+Progress of 'Storing featureXML file':
+  21.78 %               -- done [took 0.12 s (CPU), 0.12 s (Wall)] -- 
+FeatureFinderMetabo took 16.98 s (wall), 16.70 s (CPU), 0.05 s (system), 16.65 s (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  40.29 %                 72.46 %               -- done [took 1.59 s (CPU), 2.20 s (Wall)] -- 
+Progress of 'mass trace detection':
+  3.42 %                 6.44 %                 8.24 %                 9.87 %                 11.79 %                 12.93 %                 15.04 %                 16.36 %                 17.85 %                 19.06 %                 20.72 %                 22.75 %                 25.16 %                 27.87 %               -- done [took 13.24 s (CPU), 13.25 s (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    3782
+Output features: 3232 (total trace count: 3782)
+Progress of 'Storing featureXML file':
+-- done [took 0.15 s (CPU), 0.15 s (Wall)] -- 
+FeatureFinderMetabo took 16.19 s (wall), 15.54 s (CPU), 0.06 s (system), 15.48 s (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  22.77 %                 76.69 %               -- done [took 1.84 s (CPU), 1.87 s (Wall)] -- 
+Progress of 'mass trace detection':
+  1.55 %                 2.09 %                 2.45 %                 2.84 %                 3.26 %                 3.60 %                 3.82 %                 4.34 %                 4.37 %                 4.41 %                 4.57 %                 4.69 %                 4.74 %                 4.78 %                 5.08 %                 5.26 %                 5.31 %                 5.63 %                 5.85 %                 5.87 %                 6.13 %                 6.46 %                 6.66 %                 6.89 %                 7.04 %                 7.17 %                 7.35 %                 7.40 %                 7.46 %                 7.67 %                 7.83 %                 7.90 %                 8.05 %                 8.09 %                 8.26 %                 8.37 %                 8.47 %                 8.56 %                 8.62 %                 8.97 %                 9.23 %                 9.29 %                 9.35 %                 9.76 %                 9.89 %                 10.14 %                 10.30 %                 10.39 %                 10.53 %                 10.59 %                 10.75 %                 10.89 %                 10.94 %                 11.11 %                 11.49 %                 11.85 %                 12.00 %                 12.14 %                 12.50 %                 12.75 %                 12.95 %                 13.21 %                 13.60 %               -- done [took 01:02 m (CPU), 01:02 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    812
+Output features: 716 (total trace count: 812)
+Progress of 'Storing featureXML file':
+-- done [took 0.03 s (CPU), 0.03 s (Wall)] -- 
+FeatureFinderMetabo took 01:04 m (wall), 01:04 m (CPU), 0.08 s (system), 01:04 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  24.21 %                 77.35 %               -- done [took 1.86 s (CPU), 2.05 s (Wall)] -- 
+Progress of 'mass trace detection':
+  1.14 %                 2.12 %                 2.46 %                 2.86 %                 3.42 %                 3.58 %                 3.62 %                 3.78 %                 3.93 %                 4.15 %                 4.41 %                 4.45 %                 4.53 %                 4.66 %                 4.84 %                 5.14 %                 5.44 %                 5.60 %                 5.78 %                 5.84 %                 5.87 %                 5.96 %                 6.01 %                 6.03 %                 6.06 %                 6.43 %                 6.65 %                 6.73 %                 6.81 %                 6.86 %                 6.87 %                 7.19 %                 7.36 %                 7.56 %                 7.63 %                 7.63 %                 7.78 %                 7.97 %                 8.08 %                 8.11 %                 8.20 %                 8.23 %                 8.32 %                 8.56 %                 8.71 %                 8.82 %                 8.87 %                 9.10 %                 9.18 %                 9.28 %                 9.33 %                 9.39 %                 9.56 %                 9.62 %                 9.81 %                 9.84 %                 10.11 %                 10.15 %                 10.33 %                 10.43 %                 10.52 %                 10.64 %                 10.73 %                 11.02 %                 11.12 %                 11.31 %                 11.71 %                 11.86 %                 12.08 %                 12.35 %               -- done [took 01:09 m (CPU), 01:09 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    749
+Output features: 686 (total trace count: 749)
+Progress of 'Storing featureXML file':
+-- done [took 0.04 s (CPU), 0.03 s (Wall)] -- 
+FeatureFinderMetabo took 01:11 m (wall), 01:11 m (CPU), 0.08 s (system), 01:11 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  28.43 %                 73.27 %               -- done [took 1.82 s (CPU), 2.23 s (Wall)] -- 
+Progress of 'mass trace detection':
+  1.54 %                 2.37 %                 2.71 %                 3.53 %                 3.91 %                 4.22 %                 4.30 %                 4.48 %                 4.80 %                 5.14 %                 5.41 %                 5.59 %                 5.62 %                 5.86 %                 5.90 %                 5.91 %                 6.10 %                 6.20 %                 6.22 %                 6.24 %                 6.42 %                 6.46 %                 6.47 %                 6.57 %                 6.74 %                 6.91 %                 7.07 %                 7.11 %                 7.28 %                 7.44 %                 7.49 %                 7.52 %                 7.55 %                 7.63 %                 7.72 %                 7.91 %                 7.99 %                 8.03 %                 8.06 %                 8.27 %                 8.42 %                 8.58 %                 8.78 %                 8.98 %                 9.15 %                 9.32 %                 9.38 %                 9.48 %                 9.78 %                 9.97 %                 10.25 %                 10.48 %                 10.67 %                 10.87 %                 11.08 %                 11.21 %                 11.63 %                 11.82 %                 11.87 %                 12.04 %                 12.44 %                 12.62 %                 12.72 %                 12.93 %                 13.31 %                 13.53 %                 13.87 %                 14.21 %                 14.51 %                 14.61 %                 14.82 %                 15.20 %                 15.57 %               -- done [took 01:13 m (CPU), 01:13 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.01 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    867
+Output features: 779 (total trace count: 867)
+Progress of 'Storing featureXML file':
+-- done [took 0.03 s (CPU), 0.03 s (Wall)] -- 
+FeatureFinderMetabo took 01:16 m (wall), 01:15 m (CPU), 0.09 s (system), 01:15 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  29.93 %                 91.52 %               -- done [took 1.54 s (CPU), 1.64 s (Wall)] -- 
+Progress of 'mass trace detection':
+  3.05 %                 3.90 %                 4.49 %                 4.98 %                 5.28 %                 5.73 %                 5.99 %                 6.59 %                 6.64 %                 7.03 %                 7.10 %                 7.34 %                 7.89 %                 8.02 %                 8.23 %                 8.50 %                 8.72 %                 9.03 %                 9.32 %                 9.44 %                 9.57 %                 9.64 %                 10.04 %                 10.41 %                 10.58 %                 10.90 %                 11.06 %                 11.41 %                 11.68 %                 11.87 %                 12.04 %                 12.50 %                 12.85 %                 12.97 %                 13.54 %                 13.77 %                 14.11 %                 14.63 %                 14.79 %                 15.07 %                 15.38 %                 15.76 %                 16.26 %               -- done [took 42.73 s (CPU), 42.75 s (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    1186
+Output features: 1042 (total trace count: 1186)
+Progress of 'Storing featureXML file':
+-- done [took 0.04 s (CPU), 0.04 s (Wall)] -- 
+FeatureFinderMetabo took 44.98 s (wall), 44.80 s (CPU), 0.07 s (system), 44.73 s (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  17.71 %                 81.12 %                 92.13 %               -- done [took 1.63 s (CPU), 2.87 s (Wall)] -- 
+Progress of 'mass trace detection':
+  2.13 %                 3.03 %                 3.17 %                 4.30 %                 4.67 %                 5.20 %                 5.87 %                 6.39 %                 6.50 %                 6.57 %                 7.09 %                 7.15 %                 7.35 %                 7.60 %                 7.71 %                 8.21 %                 8.57 %                 9.30 %                 9.45 %                 9.59 %                 9.81 %                 10.09 %                 10.63 %                 10.93 %                 11.23 %                 11.42 %                 11.56 %                 11.77 %                 12.06 %                 12.20 %                 12.45 %                 12.96 %                 13.08 %                 13.28 %                 13.78 %                 14.03 %                 14.27 %                 14.56 %                 14.94 %                 15.47 %                 15.86 %                 16.38 %                 17.01 %                 17.38 %                 17.89 %                 18.60 %               -- done [took 45.88 s (CPU), 45.92 s (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    1448
+Output features: 1256 (total trace count: 1448)
+Progress of 'Storing featureXML file':
+-- done [took 0.06 s (CPU), 0.06 s (Wall)] -- 
+FeatureFinderMetabo took 49.45 s (wall), 48.11 s (CPU), 0.07 s (system), 48.04 s (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  40.61 %                 96.70 %               -- done [took 1.71 s (CPU), 1.84 s (Wall)] -- 
+Progress of 'mass trace detection':
+  2.26 %                 3.55 %                 4.58 %                 5.22 %                 5.87 %                 6.11 %                 6.45 %                 7.39 %                 7.96 %                 8.16 %                 8.48 %                 8.88 %                 8.97 %                 9.32 %                 9.79 %                 10.09 %                 10.49 %                 10.82 %                 11.07 %                 11.42 %                 11.62 %                 11.90 %                 12.36 %                 12.60 %                 12.82 %                 13.06 %                 13.46 %                 13.98 %                 14.54 %                 14.92 %                 15.76 %                 15.96 %                 16.41 %                 16.81 %                 17.02 %                 17.93 %                 18.65 %                 19.39 %                 20.16 %               -- done [took 39.00 s (CPU), 39.01 s (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    1582
+Output features: 1387 (total trace count: 1582)
+Progress of 'Storing featureXML file':
+-- done [took 0.06 s (CPU), 0.07 s (Wall)] -- 
+FeatureFinderMetabo took 41.53 s (wall), 41.33 s (CPU), 0.08 s (system), 41.25 s (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  11.63 %                 60.94 %               -- done [took 1.75 s (CPU), 2.06 s (Wall)] -- 
+Progress of 'mass trace detection':
+  0.89 %                 1.96 %                 2.21 %                 2.56 %                 2.98 %                 3.70 %                 4.10 %                 4.48 %                 4.79 %                 5.22 %                 5.39 %                 5.56 %                 5.61 %                 5.65 %                 5.71 %                 5.80 %                 6.11 %                 6.16 %                 6.25 %                 6.49 %                 6.70 %                 6.88 %                 6.98 %                 7.07 %                 7.16 %                 7.22 %                 7.50 %                 7.99 %                 8.13 %                 8.15 %                 8.23 %                 8.28 %                 8.52 %                 8.79 %                 8.82 %                 9.15 %                 9.33 %                 9.53 %                 9.68 %                 9.73 %                 9.95 %                 10.06 %                 10.09 %                 10.16 %                 10.28 %                 10.36 %                 10.39 %                 10.45 %                 10.67 %                 10.70 %                 10.71 %                 10.88 %                 11.09 %                 11.25 %                 11.42 %                 11.71 %                 11.87 %                 11.97 %                 12.03 %                 12.36 %                 12.46 %                 12.83 %                 13.24 %                 13.41 %                 13.72 %                 14.05 %                 14.18 %                 14.35 %                 14.45 %                 14.50 %                 14.78 %                 14.98 %                 15.04 %                 15.16 %                 15.41 %                 15.57 %                 15.66 %                 15.95 %                 16.11 %                 16.22 %                 16.39 %                 16.45 %                 16.60 %                 16.67 %                 16.77 %                 16.80 %                 16.85 %                 16.97 %                 17.06 %                 17.25 %                 17.53 %                 17.85 %                 18.01 %                 18.28 %                 18.58 %                 18.75 %                 18.80 %                 18.95 %                 19.18 %                 19.26 %                 19.71 %                 20.10 %                 20.14 %                 20.28 %                 20.87 %                 21.24 %               -- done [took 01:47 m (CPU), 01:48 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.01 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    592
+Output features: 426 (total trace count: 592)
+Progress of 'Storing featureXML file':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+FeatureFinderMetabo took 01:50 m (wall), 01:50 m (CPU), 0.11 s (system), 01:50 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  16.03 %                 69.78 %               -- done [took 1.75 s (CPU), 1.80 s (Wall)] -- 
+Progress of 'mass trace detection':
+  0.09 %                 1.41 %                 1.77 %                 2.08 %                 2.40 %                 3.00 %                 3.59 %                 4.38 %                 4.99 %                 5.15 %                 5.26 %                 5.43 %                 5.47 %                 5.68 %                 5.71 %                 6.06 %                 6.44 %                 6.60 %                 6.84 %                 7.01 %                 7.20 %                 7.45 %                 7.57 %                 7.66 %                 7.78 %                 7.81 %                 7.94 %                 8.09 %                 8.11 %                 8.25 %                 8.26 %                 8.33 %                 8.47 %                 8.52 %                 8.93 %                 9.02 %                 9.27 %                 9.40 %                 9.60 %                 9.68 %                 9.97 %                 10.19 %                 10.48 %                 10.57 %                 10.75 %                 10.86 %                 10.97 %                 11.09 %                 11.20 %                 11.29 %                 11.46 %                 11.48 %                 11.75 %                 11.84 %                 12.06 %                 12.21 %                 12.43 %                 12.69 %                 13.03 %                 13.15 %                 13.37 %                 13.54 %                 13.70 %                 13.78 %                 13.90 %                 14.19 %                 14.34 %                 14.40 %                 14.60 %                 14.76 %                 14.91 %                 15.02 %                 15.26 %                 15.41 %                 15.57 %                 15.70 %                 16.29 %                 16.57 %                 16.88 %                 16.90 %                 17.04 %                 17.25 %                 17.36 %                 17.53 %                 17.60 %                 17.86 %                 18.06 %                 18.14 %                 18.30 %                 18.38 %                 18.61 %                 18.78 %                 18.99 %                 19.35 %                 19.54 %                 19.59 %                 19.73 %                 19.79 %                 19.84 %                 19.91 %                 20.09 %                 20.28 %                 20.38 %                 20.84 %                 21.09 %                 21.32 %                 21.48 %                 21.69 %                 21.99 %               -- done [took 01:49 m (CPU), 01:49 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    721
+Output features: 525 (total trace count: 721)
+Progress of 'Storing featureXML file':
+-- done [took 0.02 s (CPU), 0.03 s (Wall)] -- 
+FeatureFinderMetabo took 01:51 m (wall), 01:51 m (CPU), 0.11 s (system), 01:51 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  18.30 %                 70.30 %               -- done [took 1.91 s (CPU), 1.95 s (Wall)] -- 
+Progress of 'mass trace detection':
+  0.66 %                 1.62 %                 2.53 %                 2.92 %                 3.18 %                 3.38 %                 3.61 %                 3.75 %                 3.92 %                 3.94 %                 4.19 %                 4.33 %                 4.55 %                 4.61 %                 4.64 %                 4.66 %                 5.01 %                 5.16 %                 5.22 %                 5.36 %                 5.36 %                 5.40 %                 5.46 %                 5.61 %                 5.81 %                 5.96 %                 6.09 %                 6.23 %                 6.24 %                 6.32 %                 6.36 %                 6.61 %                 6.65 %                 6.78 %                 6.98 %                 7.00 %                 7.05 %                 7.21 %                 7.30 %                 7.66 %                 7.83 %                 7.88 %                 7.94 %                 8.07 %                 8.22 %                 8.32 %                 8.54 %                 8.67 %                 8.77 %                 8.86 %                 8.97 %                 9.28 %                 9.47 %                 9.55 %                 9.55 %                 9.56 %                 9.73 %                 9.90 %                 10.13 %                 10.13 %                 10.28 %                 10.37 %                 10.54 %                 10.75 %                 10.79 %                 10.95 %                 11.17 %                 11.25 %                 11.39 %                 11.55 %                 11.67 %                 11.68 %                 11.83 %                 11.84 %                 11.84 %                 12.11 %                 12.35 %                 12.41 %                 12.45 %                 12.50 %                 12.71 %                 12.77 %               -- done [took 01:24 m (CPU), 01:24 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    366
+Output features: 313 (total trace count: 366)
+Progress of 'Storing featureXML file':
+-- done [took 0.02 s (CPU), 0.01 s (Wall)] -- 
+FeatureFinderMetabo took 01:27 m (wall), 01:27 m (CPU), 0.08 s (system), 01:27 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  40.17 %                 94.71 %               -- done [took 1.91 s (CPU), 1.96 s (Wall)] -- 
+Progress of 'mass trace detection':
+  1.84 %                 2.59 %                 2.88 %                 3.29 %                 3.44 %                 3.63 %                 3.79 %                 3.84 %                 4.31 %                 4.63 %                 4.91 %                 5.06 %                 5.34 %                 5.49 %                 5.49 %                 5.51 %                 5.77 %                 5.93 %                 6.24 %                 6.32 %                 6.36 %                 6.55 %                 6.91 %                 7.21 %                 7.62 %                 7.64 %                 7.84 %                 7.95 %                 7.96 %                 8.10 %                 8.23 %                 8.25 %                 8.30 %                 8.56 %                 8.58 %                 8.68 %                 8.85 %                 9.03 %                 9.08 %                 9.10 %                 9.39 %                 9.46 %                 9.79 %                 10.02 %                 10.26 %                 10.28 %                 10.40 %                 10.80 %                 10.87 %                 11.11 %                 11.21 %                 11.29 %                 11.34 %                 11.37 %                 11.38 %                 11.70 %                 11.75 %                 11.92 %                 12.00 %                 12.23 %                 12.34 %                 12.42 %                 12.62 %                 12.63 %                 12.93 %                 13.26 %                 13.60 %                 13.73 %               -- done [took 01:10 m (CPU), 01:10 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    439
+Output features: 371 (total trace count: 439)
+Progress of 'Storing featureXML file':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+FeatureFinderMetabo took 01:12 m (wall), 01:12 m (CPU), 0.07 s (system), 01:12 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  0.33 %                 48.59 %                 97.60 %               -- done [took 1.93 s (CPU), 2.06 s (Wall)] -- 
+Progress of 'mass trace detection':
+  1.49 %                 1.67 %                 2.14 %                 2.50 %                 2.72 %                 2.94 %                 3.15 %                 3.30 %                 3.33 %                 3.65 %                 3.71 %                 3.74 %                 4.03 %                 4.04 %                 4.05 %                 4.07 %                 4.08 %                 4.11 %                 4.31 %                 4.44 %                 4.65 %                 4.80 %                 4.95 %                 4.99 %                 5.00 %                 5.02 %                 5.03 %                 5.07 %                 5.10 %                 5.14 %                 5.45 %                 5.48 %                 5.70 %                 5.77 %                 5.94 %                 5.99 %                 6.15 %                 6.17 %                 6.17 %                 6.23 %                 6.37 %                 6.44 %                 6.57 %                 6.75 %                 6.77 %                 6.80 %                 6.84 %                 6.85 %                 6.92 %                 7.08 %                 7.09 %                 7.15 %                 7.24 %                 7.25 %                 7.33 %                 7.36 %                 7.38 %                 7.59 %                 7.76 %                 7.91 %                 7.93 %                 7.95 %                 7.96 %                 7.97 %                 8.17 %                 8.35 %                 8.39 %                 8.40 %                 8.54 %                 8.56 %                 8.63 %                 8.67 %                 8.88 %                 8.93 %                 8.95 %                 9.10 %                 9.17 %                 9.34 %                 9.39 %                 9.56 %                 9.60 %                 9.76 %                 9.93 %                 10.00 %                 10.18 %                 10.20 %               -- done [took 01:25 m (CPU), 01:25 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    488
+Output features: 455 (total trace count: 488)
+Progress of 'Storing featureXML file':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+FeatureFinderMetabo took 01:28 m (wall), 01:28 m (CPU), 0.10 s (system), 01:28 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  9.70 %                 61.47 %               -- done [took 1.88 s (CPU), 1.96 s (Wall)] -- 
+Progress of 'mass trace detection':
+  1.10 %                 1.43 %                 1.70 %                 1.92 %                 1.96 %                 2.13 %                 2.46 %                 2.76 %                 2.90 %                 2.91 %                 3.02 %                 3.16 %                 3.47 %                 3.49 %                 3.65 %                 3.67 %                 4.09 %                 4.10 %                 4.11 %                 4.26 %                 4.29 %                 4.33 %                 4.46 %                 4.65 %                 4.90 %                 5.09 %                 5.32 %                 5.45 %                 5.82 %                 6.06 %                 6.15 %                 6.16 %                 6.31 %                 6.33 %                 6.33 %                 6.49 %                 6.71 %                 6.87 %                 7.05 %                 7.12 %                 7.22 %                 7.43 %                 7.55 %                 7.82 %                 7.84 %                 8.09 %                 8.30 %                 8.64 %                 8.80 %                 8.88 %                 8.95 %                 8.97 %                 9.07 %                 9.09 %                 9.32 %                 9.55 %                 9.78 %                 9.94 %                 10.08 %                 10.13 %                 10.19 %                 10.54 %                 10.68 %                 10.84 %                 11.04 %                 11.36 %                 11.48 %                 11.80 %                 11.90 %                 12.12 %                 12.48 %                 12.68 %                 12.77 %               -- done [took 01:13 m (CPU), 01:13 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    484
+Output features: 428 (total trace count: 484)
+Progress of 'Storing featureXML file':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+FeatureFinderMetabo took 01:15 m (wall), 01:15 m (CPU), 0.08 s (system), 01:15 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  16.47 %                 68.25 %               -- done [took 1.85 s (CPU), 1.99 s (Wall)] -- 
+Progress of 'mass trace detection':
+  1.11 %                 1.30 %                 1.59 %                 1.93 %                 2.25 %                 2.44 %                 2.59 %                 2.81 %                 2.84 %                 3.00 %                 3.17 %                 3.31 %                 3.62 %                 3.93 %                 3.97 %                 3.99 %                 4.16 %                 4.40 %                 4.41 %                 4.44 %                 4.58 %                 4.81 %                 5.11 %                 5.22 %                 5.67 %                 5.95 %                 6.09 %                 6.11 %                 6.15 %                 6.15 %                 6.18 %                 6.23 %                 6.50 %                 6.63 %                 6.64 %                 6.76 %                 6.88 %                 7.19 %                 7.43 %                 7.50 %                 7.65 %                 7.77 %                 7.86 %                 7.92 %                 7.93 %                 8.07 %                 8.46 %                 8.68 %                 8.69 %                 8.78 %                 9.11 %                 9.19 %                 9.45 %                 9.58 %                 9.88 %                 10.04 %                 10.28 %                 10.53 %                 11.07 %                 11.13 %                 11.24 %                 11.58 %                 11.69 %                 12.10 %                 12.41 %                 12.85 %                 13.08 %                 13.15 %                 13.93 %                 14.51 %                 14.55 %               -- done [took 01:11 m (CPU), 01:12 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    604
+Output features: 532 (total trace count: 604)
+Progress of 'Storing featureXML file':
+-- done [took 0.03 s (CPU), 0.03 s (Wall)] -- 
+FeatureFinderMetabo took 01:14 m (wall), 01:14 m (CPU), 0.07 s (system), 01:14 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  29.78 %                 62.25 %                 76.64 %               -- done [took 1.87 s (CPU), 3.17 s (Wall)] -- 
+Progress of 'mass trace detection':
+  0.22 %                 0.91 %                 1.39 %                 1.85 %                 2.36 %                 2.55 %                 2.93 %                 3.07 %                 3.08 %                 3.17 %                 3.20 %                 3.49 %                 3.83 %                 3.98 %                 4.01 %                 4.30 %                 4.31 %                 4.34 %                 4.48 %                 4.66 %                 4.69 %                 4.98 %                 5.27 %                 5.44 %                 5.46 %                 5.76 %                 5.80 %                 6.01 %                 6.28 %                 6.30 %                 6.45 %                 6.47 %                 6.59 %                 6.67 %                 6.69 %                 6.88 %                 6.89 %                 6.99 %                 7.07 %                 7.41 %                 7.44 %                 7.58 %                 7.61 %                 7.65 %                 7.90 %                 8.04 %                 8.10 %                 8.25 %                 8.29 %                 8.36 %                 8.61 %                 8.73 %                 9.00 %                 9.20 %                 9.53 %                 9.74 %                 10.00 %                 10.43 %                 10.64 %                 10.95 %                 11.29 %                 11.68 %                 11.76 %                 11.94 %                 12.19 %                 12.50 %                 12.73 %               -- done [took 01:06 m (CPU), 01:06 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.01 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    718
+Output features: 658 (total trace count: 718)
+Progress of 'Storing featureXML file':
+-- done [took 0.04 s (CPU), 0.03 s (Wall)] -- 
+FeatureFinderMetabo took 01:10 m (wall), 01:08 m (CPU), 0.09 s (system), 01:08 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  7.81 %                 52.93 %               -- done [took 1.66 s (CPU), 2.00 s (Wall)] -- 
+Progress of 'mass trace detection':
+  1.19 %                 1.55 %                 1.86 %                 2.30 %                 2.32 %                 2.39 %                 2.43 %                 2.60 %                 2.74 %                 3.04 %                 3.04 %                 3.06 %                 3.50 %                 3.56 %                 3.58 %                 3.72 %                 3.99 %                 4.01 %                 4.04 %                 4.34 %                 4.36 %                 4.36 %                 4.55 %                 4.56 %                 4.72 %                 4.91 %                 5.16 %                 5.31 %                 5.34 %                 5.35 %                 5.52 %                 5.67 %                 5.71 %                 5.85 %                 5.98 %                 6.03 %                 6.11 %                 6.19 %                 6.51 %                 6.54 %                 6.70 %                 6.72 %                 6.79 %                 6.96 %                 7.08 %                 7.11 %                 7.12 %                 7.19 %                 7.23 %                 7.53 %                 7.78 %                 8.11 %                 8.17 %                 8.37 %                 8.40 %                 8.43 %                 8.48 %                 8.54 %                 8.83 %                 8.99 %                 9.19 %                 9.23 %                 9.25 %                 9.43 %                 9.55 %                 9.67 %                 9.73 %                 9.94 %                 10.07 %                 10.29 %                 10.35 %                 10.42 %                 10.61 %                 10.64 %                 11.12 %               -- done [took 01:14 m (CPU), 01:14 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.01 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    586
+Output features: 542 (total trace count: 586)
+Progress of 'Storing featureXML file':
+-- done [took 0.03 s (CPU), 0.02 s (Wall)] -- 
+FeatureFinderMetabo took 01:17 m (wall), 01:17 m (CPU), 0.09 s (system), 01:17 m (user).
+Warning: Parameters file version (2.4.0-HEAD-HASH-NOTFOUND-HEAD-HASH-NOTFOUND) does not match the version of this tool (2.4.0-develop-2018-11-29).
+Your current parameters are still valid, but there might be new valid values or even new parameters. Upgrading the INI might be useful.
+Progress of 'loading spectra list':
+  27.54 %                 82.74 %               -- done [took 1.74 s (CPU), 1.79 s (Wall)] -- 
+Progress of 'mass trace detection':
+  1.30 %                 1.66 %                 1.77 %                 2.00 %                 2.55 %                 2.63 %                 2.77 %                 2.97 %                 3.16 %                 3.37 %                 3.42 %                 3.72 %                 3.73 %                 3.92 %                 4.21 %                 4.25 %                 4.28 %                 4.34 %                 4.35 %                 4.52 %                 4.67 %                 4.71 %                 4.92 %                 4.94 %                 5.10 %                 5.39 %                 5.42 %                 5.61 %                 5.77 %                 5.80 %                 5.83 %                 5.85 %                 5.88 %                 5.94 %                 6.09 %                 6.11 %                 6.24 %                 6.29 %                 6.36 %                 6.44 %                 6.56 %                 6.69 %                 6.88 %                 6.92 %                 7.14 %                 7.30 %                 7.51 %                 7.52 %                 7.61 %                 7.67 %                 7.79 %                 7.83 %                 7.85 %                 7.93 %                 8.10 %                 8.15 %                 8.24 %                 8.39 %                 8.54 %                 8.87 %                 8.93 %                 8.98 %                 9.17 %                 9.19 %                 9.21 %                 9.46 %                 9.54 %                 9.60 %                 9.67 %                 9.84 %                 10.36 %                 10.41 %                 10.45 %                 10.52 %                 10.71 %                 10.86 %                 10.98 %                 11.07 %                 11.11 %               -- done [took 01:18 m (CPU), 01:18 m (Wall)] -- 
+Without EPD, smoothing is not supported. Setting 'use_smoothed_intensities' to false!
+Progress of 'assembling mass traces to features':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    639
+Output features: 589 (total trace count: 639)
+Progress of 'Storing featureXML file':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+FeatureFinderMetabo took 01:21 m (wall), 01:21 m (CPU), 0.08 s (system), 01:21 m (user).

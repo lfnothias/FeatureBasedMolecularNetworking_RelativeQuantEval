@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<parameters>
+<parameter name="ANALOG_SEARCH">0</parameter>
+<parameter name="FILTER_LIBRARY">1</parameter>
+<parameter name="FILTER_PRECURSOR_WINDOW">1</parameter>
+<parameter name="GROUP_COUNT_AGGREGATE_METHOD">Sum</parameter>
+<parameter name="MAXIMUM_COMPONENT_SIZE">100</parameter>
+<parameter name="MAX_SHIFT">500</parameter>
+<parameter name="MAX_SHIFT_MASS">100.0</parameter>
+<parameter name="MIN_MATCHED_PEAKS">6</parameter>
+<parameter name="MIN_MATCHED_PEAKS_SEARCH">3</parameter>
+<parameter name="MIN_PEAK_INT">0.0</parameter>
+<parameter name="PAIRS_MIN_COSINE">0.7</parameter>
+<parameter name="QUANT_FILE_NORM">None</parameter>
+<parameter name="QUANT_TABLE_SOURCE">OPENMS</parameter>
+<parameter name="RUN_DEREPLICATOR">0</parameter>
+<parameter name="SCORE_THRESHOLD">0.65</parameter>
+<parameter name="TOPK">10</parameter>
+<parameter name="TOP_K_RESULTS">1</parameter>
+<parameter name="WINDOW_FILTER">1</parameter>
+<parameter name="desc">NIST 1950SRM dilution QExactive New parameters Merge QT OK 100 sec with filename</parameter>
+<parameter name="email">lnothiasscaglia@ucsd.edu</parameter>
+<parameter name="library_on_server">d.staticlibs/NIST_17;</parameter>
+<parameter name="quantification_table">f.lfnothias/aae71e9b72cf431d9b2606170c3f7a7d/output/textexporter/textexporter-0000.csv;</parameter>
+<parameter name="reanalyzed_tasks">aae71e9b72cf431d9b2606170c3f7a7d</parameter>
+<parameter name="spec_on_server">f.lfnothias/aae71e9b72cf431d9b2606170c3f7a7d/output/gnpsexport/gnpsexport-0000.mgf;</parameter>
+<parameter name="task">19490658762846319435ea3bd2fbb6bb</parameter>
+<parameter name="tolerance.Ion_tolerance">0.01</parameter>
+<parameter name="tolerance.PM_tolerance">0.01</parameter>
+<parameter name="upload_file_mapping">spec-00000.mgf|lfnothias/aae71e9b72cf431d9b2606170c3f7a7d/output/gnpsexport/gnpsexport-0000.mgf</parameter>
+<parameter name="upload_file_mapping">quantification_table-00000.csv|lfnothias/aae71e9b72cf431d9b2606170c3f7a7d/output/textexporter/textexporter-0000.csv</parameter>
+<parameter name="upload_file_mapping">lib-00000.mgf|staticlibs/NIST_17/NIST17_library.mgf</parameter>
+<parameter name="user">lfnothias</parameter>
+<parameter name="uuid">1E0344EE-EA1A-0001-5F11-1A8027F92090</parameter>
+<parameter name="workflow">FEATURE-BASED-MOLECULAR-NETWORKING</parameter>
+</parameters>

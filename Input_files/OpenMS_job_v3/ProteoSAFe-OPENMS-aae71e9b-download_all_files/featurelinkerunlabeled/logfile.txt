@@ -1,0 +1,31 @@
+Linking 19 featureXMLs.
+Progress of 'reading input':
+No MS run annotated in feature map. Setting to 'UNKNOWN' 
+  0.00 %                 10.53 %                 31.58 %                 57.89 %               -- done [took 4.20 s (CPU), 4.21 s (Wall)] -- 
+Progress of 'linking features':
+  5.88 %                 66.67 %               -- done [took 1.59 s (CPU), 1.58 s (Wall)] -- 
+Map descriptions (file name + label) in ConsensusMap are not unique:
+<No MS run annotated in feature map. Setting to 'UNKNOWN' > occurred 19 times
+  file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label:   file: UNKNOWN label: 
+Number of consensus features:
+  of size 19:     65
+  of size 18:     65
+  of size 17:     52
+  of size 16:     44
+  of size 15:     53
+  of size 14:     27
+  of size 13:     41
+  of size 12:     69
+  of size 11:     39
+  of size 10:     48
+  of size  9:    113
+  of size  8:     64
+  of size  7:     70
+  of size  6:    276
+  of size  5:    157
+  of size  4:    232
+  of size  3:    847
+  of size  2:    750
+  of size  1:   1715
+  total:        4727
+FeatureLinkerUnlabeledQT took 6.64 s (wall), 6.63 s (CPU), 0.06 s (system), 6.57 s (user).
